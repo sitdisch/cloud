@@ -1,0 +1,11 @@
+input
+node_modules
+npm-debug.log
+:w
+*~
+*.swp
+index.js
+v8-compile-cache-0
+description.txt
+package.json
+package-lock.json
